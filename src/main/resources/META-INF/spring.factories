@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.remoteconfig.example1.demo.config.MyEnvironmentPostProcessor
